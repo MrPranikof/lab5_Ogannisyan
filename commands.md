@@ -6,3 +6,4 @@
 12. git checkout файл, git reset HEAD файл - отмена изменений
 15. git revert хеш - откат заданного коммита
 18. git branch -d / -D имя - удаление ветки
+21. git merge --abort - прекращение слияния при конфликте
