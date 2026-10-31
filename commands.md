@@ -4,3 +4,4 @@
 6. git commit - подробное многострочное сообщение
 9. git diff, git diff --staged, git diff файл - просмотр изменений до коммита
 12. git checkout файл, git reset HEAD файл - отмена изменений
+15. git revert хеш - откат заданного коммита
